@@ -26,7 +26,8 @@ JavaScript 代码在执行前，引擎会先进行一次**解析（Parsing）**�
 
 <!-- 这是一张图片，ocr 内容为： -->
 
-![](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/7f67f04b41f2420ca53d56260145f36d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aW65a2Q5LiN5ZCD6YaL:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjY4NDM2MjkwNTYxNzA2NSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1778750908&x-orig-sign=6v0ovFx3XJKyh3cf7OrBPdvc7qk%3D)
+<img width="922" height="730" alt="image" src="https://github.com/user-attachments/assets/8241f7a6-734a-4d64-8541-64e8a7b6a404" />
+
 
 ### 3.1 创建阶段（Creation Phase）
 
@@ -58,7 +59,8 @@ JavaScript 代码在执行前，引擎会先进行一次**解析（Parsing）**�
 
 <!-- 这是一张图片，ocr 内容为： -->
 
-![](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/9a5ab5c9db094336aa351d270cc9a31d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aW65a2Q5LiN5ZCD6YaL:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjY4NDM2MjkwNTYxNzA2NSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1778750908&x-orig-sign=dBUT848UW1170AQNlDDQWXMQ8QE%3D)
+<img width="1061" height="952" alt="image" src="https://github.com/user-attachments/assets/cee05b74-9988-4520-a31c-b999685729b9" />
+
 
 **示例**：
 
