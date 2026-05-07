@@ -34,10 +34,7 @@ Webpack 将所有资源（JS、CSS、图片等）视为**模块**，从入口开
 4.  输出打包后的文件到 dist 目录。
 
 如下图：
-
-<!-- 这是一张图片，ocr 内容为： -->
-
-![](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/21fddef764e54a65be0cd1deb52f4ca1~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aW65a2Q5LiN5ZCD6YaL:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjY4NDM2MjkwNTYxNzA2NSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1778751328&x-orig-sign=rfLc4DXXGBTiOSB8bIZxMDaetxo%3D)
+<img width="809" height="1263" alt="image" src="https://github.com/user-attachments/assets/d03a189d-8a2a-4a37-9d4b-24ffbb3c29a2" />
 
 ### 3.3 关键配置示例
 
@@ -111,7 +108,7 @@ Vite 利用浏览器原生 **ES Module** 支持，在开发环境下**不打包*
 4.  生产构建时调用 Rollup 打包，并进行优化。
     如下图：
 
-![image.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/008d6048cd74460d80621a65822d3e0d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aW65a2Q5LiN5ZCD6YaL:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjY4NDM2MjkwNTYxNzA2NSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1778751328&x-orig-sign=wh46EuEH7NcjAsaIf3%2FXwhIo9s4%3D)
+<img width="890" height="1318" alt="image" src="https://github.com/user-attachments/assets/3e92bcbc-5dd9-4672-bd55-f3a26feb6884" />
 
 ### 4.3 配置示例
 
