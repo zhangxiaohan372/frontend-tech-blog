@@ -84,7 +84,8 @@ this.$set(this.arr, 0, 1)  // 更新
 
 流程图：
 
-![](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/fc26bf7833eb4dadba626ef28baa6039~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aW65a2Q5LiN5ZCD6YaL:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjY4NDM2MjkwNTYxNzA2NSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1778750772&x-orig-sign=bINm7yYyd7SDIYJavFqfoq7PCcY%3D)
+<img width="1034" height="1425" alt="image" src="https://github.com/user-attachments/assets/28f2bdfa-a4ae-4257-abfe-ac2b17bfcd99" />
+
 
 ### <font style="color:rgb(15, 17, 21);">3.3</font><font style="color:rgb(15, 17, 21);"> </font>track与trigger 的最小实现（理解依赖收集的核心）
 
