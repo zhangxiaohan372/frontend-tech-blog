@@ -35,7 +35,8 @@ Person.prototype.constructor === Person; // true
 
 如图：
 
-![image.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/a9918baa0d0244ce8e693f3d0fc1fd4b~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aW65a2Q5LiN5ZCD6YaL:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjY4NDM2MjkwNTYxNzA2NSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1778751361&x-orig-sign=k%2FM2Pc5mvmFDwcS5ZCNxh8rpvuo%3D)
+<img width="820" height="432" alt="image" src="https://github.com/user-attachments/assets/462fb1b6-bb64-4ce3-b78e-566a024d32c3" />
+
 
 ## 2.1 谁有 prototype？——不是所有函数都有
 
@@ -128,8 +129,8 @@ JavaScript 中，所有对象最终都继承自 `Object`，函数也继承自 `F
 全景图（含实例）：
 
 <!-- 这是一张图片，ocr 内容为： -->
+<img width="2047" height="1177" alt="image" src="https://github.com/user-attachments/assets/20a48b7f-cbb7-4d5f-b79d-2905a10ddbf6" />
 
-<img src="https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/4623b6495e114124a6e8147ce8471edb~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aW65a2Q5LiN5ZCD6YaL:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjY4NDM2MjkwNTYxNzA2NSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1778751361&x-orig-sign=KWPVi8ZSqOZTTzfVyB8uuj2l7c4%3D" title="" alt="" width="764">
 
 ## 4.1 特例：Function 的自引用——既是鸡又是蛋
 
@@ -143,8 +144,8 @@ Function.__proto__ === Function.prototype;   // true —— 它就是自己的�
 这意味着 `Function.prototype` 既是所有函数的原型，也是 `Function` 自身的原型。在整个原型链图谱中，这是一个**自引用环**：
 
 <!-- 这是一张图片，ocr 内容为： -->
+<img width="863" height="477" alt="image" src="https://github.com/user-attachments/assets/fe2b18cf-0727-45cd-a111-8e7abcc93113" />
 
-![](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/bb748f532db143008e5ec9ac8ead03d6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aW65a2Q5LiN5ZCD6YaL:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjY4NDM2MjkwNTYxNzA2NSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1778751361&x-orig-sign=h8L3L%2Br0eTaFN7E0YlkcOLJhmYw%3D)
 
 这个环为什么成立？
 
