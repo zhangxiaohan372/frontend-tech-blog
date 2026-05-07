@@ -61,9 +61,8 @@ p.then(
 
 ### 2.3 promise执行流程图
 
-<!-- 这是一张图片，ocr 内容为： -->
+<img width="1840" height="2533" alt="image" src="https://github.com/user-attachments/assets/31754bc1-da9a-4e64-86a1-eabf003c8aea" />
 
-![](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/9e0ad482867e4a0f94a0e89e2f457b87~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aW65a2Q5LiN5ZCD6YaL:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjY4NDM2MjkwNTYxNzA2NSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1778751279&x-orig-sign=X6rjag724haVYOBvLHS%2Fjwm2QRI%3D)
 
 #### **小结：实例方法**
 
