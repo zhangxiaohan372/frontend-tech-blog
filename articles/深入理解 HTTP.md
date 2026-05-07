@@ -111,7 +111,8 @@ HTTP 是明文传输，存在窃听、篡改、冒充三大风险。HTTPS = HTTP
 
 <!-- 这是一张图片，ocr 内容为： -->
 
-![](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/28a374ad221d4fc9807ae904c0032ed1~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aW65a2Q5LiN5ZCD6YaL:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjY4NDM2MjkwNTYxNzA2NSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1778751229&x-orig-sign=KIufPQHchsxh9jIy8TTxSp4gxYU%3D)
+<img width="834" height="1186" alt="image" src="https://github.com/user-attachments/assets/3253181e-3483-4623-b841-7f83453a281c" />
+
 
 ## 8. 一次完整的 HTTP 事务
 
@@ -131,13 +132,15 @@ HTTP 是明文传输，存在窃听、篡改、冒充三大风险。HTTPS = HTTP
 
 <!-- 这是一张图片，ocr 内容为： -->
 
-![](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/095d73b0f62b498680c0b91396cb4c6a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aW65a2Q5LiN5ZCD6YaL:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjY4NDM2MjkwNTYxNzA2NSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1778751229&x-orig-sign=KdxqRCsEwGkfYF9hCUTM0QTcAJ8%3D)
+<img width="1080" height="1601" alt="image" src="https://github.com/user-attachments/assets/bd8418d0-9b46-4e98-a6d5-1d5cc9360a14" />
+
 
 <font style="color:rgb(15, 17, 21);">HTTP 事务完成后，浏览器进入渲染流程（详见《深入理解浏览器渲染流程》），如下图所示：</font>
 
 <!-- 这是一张图片，ocr 内容为： -->
 
-![](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/5bc8ffabcd9b452cbf75ac71d7409fe5~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aW65a2Q5LiN5ZCD6YaL:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjY4NDM2MjkwNTYxNzA2NSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1778751229&x-orig-sign=dbO2xyvedhgY33zRwm0uytjeGMI%3D)
+<img width="623" height="1154" alt="image" src="https://github.com/user-attachments/assets/2c15ccc7-72f8-4c87-b28b-70cfdd94e95a" />
+
 
 ## 9. 状态保持机制：Cookie 与 JWT
 
